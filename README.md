@@ -1,0 +1,2 @@
+# AIFoundations
+AI Foundations Coursework
