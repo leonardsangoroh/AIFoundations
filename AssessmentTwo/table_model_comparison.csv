@@ -1,0 +1,4 @@
+Model,Test Accuracy,Test Loss
+Model 1: Frozen VGG16 + augmentation,0.8999999761581421,0.2739293873310089
+Model 2: VGG16 + stronger regularisation,0.9333333373069763,0.4169103503227234
+Model 3: Fine-tuned VGG16,0.9333333373069763,0.3951835334300995
