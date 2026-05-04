@@ -1,0 +1,4 @@
+Model,Test Accuracy
+Model 1: Frozen VGG16 + Data Augmentation,0.8333333134651184
+Model 2: Regularised VGG16,0.8999999761581421
+Model 3: Classification threshold tuning VGG16,0.8666666666666667
